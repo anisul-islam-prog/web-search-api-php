@@ -34,7 +34,7 @@ You need to have a azure account to use Bing Web Search API. For that you need a
 
 ### Step-1:
 
-[Go to this link](https://developers.google.com/custom-search/json-api/v1/introduction#identify_your_application_to_google_with_api_key) to get your api key.
+[Go to this link](https://github.com/MicrosoftDocs/azure-docs/blob/main/includes/bing-web-search-quickstart-signup.md) to get your api key.
  
 ### Step-2:
 
